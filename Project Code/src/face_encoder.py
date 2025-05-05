@@ -4,8 +4,8 @@ import face_recognition
 import pickle
 
 # Paths
-images_dir = "C:/Users/26506/Desktop/Senior 2/Project/project file/Facial_Recognition_Attendance/images"
-encodings_dir = "C:/Users/26506/Desktop/Senior 2/Project/project file/Facial_Recognition_Attendance/encodings"
+images_dir = "C:/Users/26506/Desktop/Senior 2/Project/project file/Facial_Recognition_Attendance/Dataset/splitted/train"
+encodings_dir = "C:/Users/26506/Desktop/Senior 2/Project/project file/Facial_Recognition_Attendance/Dataset/encodings"
 
 
 # Iterate over each person's folder in the images directory

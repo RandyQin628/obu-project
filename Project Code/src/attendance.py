@@ -6,7 +6,7 @@ import pickle
 import pandas as pd
 from datetime import datetime
 
-encodings_dir = "C:/Users/26506/Desktop/Senior 2/Project/project file/Facial_Recognition_Attendance/encodings"
+encodings_dir = "C:/Users/26506/Desktop/Senior 2/Project/project file/obu-project/obu-project/Dataset/encodings"
 
 # Initialize lists for names and encodings
 known_names = []
